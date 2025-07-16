@@ -59,6 +59,12 @@
 	}
 
 
+	.sns-ban img{
+		width: 100%;
+		margin: 10px 0;
+	}
+
+
 	/*  Popup Section */
 	.popup_in {
 		height: 80vh;
@@ -337,6 +343,12 @@
 	}
 
 
+	.sns-ban img{
+		width: 100%;
+		margin: 10px 0;
+	}
+
+
 	/*resume*/
 	.resume:before,
 	.resume:after {
@@ -498,6 +510,12 @@
 		width: 600px;
 	}
 
+	/* portfolio section */
+	.sns-ban img{
+		width: 100%;
+		margin: 10px 0;
+	}
+
 	/*resume*/
 	.resume:before,
 	.resume:after {
@@ -627,6 +645,11 @@
 
 	.short-info p {
 		line-height: 1.5;
+	}
+
+	.sns-ban img{
+		width: 100%;
+		margin: 10px 0;
 	}
 
 }
